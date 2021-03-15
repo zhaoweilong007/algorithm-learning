@@ -1,3 +1,5 @@
+package array;
+
 /**
  * @author ZhaoWeiLong
  * @date 2021/3/11

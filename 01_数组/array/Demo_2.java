@@ -1,15 +1,18 @@
+package array;
+
 /**
  * @author ZhaoWeiLong
  * @date 2021/3/11
  */
 public class Demo_2 {
   public static void main(String[] args) {
-    String[] arr = {"flower","flow","flight"};
+    String[] arr = {"flower", "flow", "flight"};
     System.out.println(longestPrefix(arr));
   }
 
   /**
    * 最长公共前缀
+   *
    * @param arr
    * @return
    */
